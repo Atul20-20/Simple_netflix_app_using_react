@@ -1,0 +1,71 @@
+/* Save the file with name "index.css "*/
+body{
+  background-color: black;
+  margin-top: 20px;
+  text-align: center;
+  text-transform: capitalize;
+  
+  
+}
+.cards{
+border: 2px solid red;
+color: red;
+
+max-height: 370px;
+max-width: 320px;
+margin-bottom: 20px;
+display: inline-block;
+margin-left: 20px;
+padding: 10px;
+
+
+}
+
+.card{
+  border: 2px solid green;
+  height: 240px;
+  width: 302px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  
+}
+
+.card_img{
+  border: 2px solid yellow;
+  height: 235px;
+  width: 300px;
+
+}
+
+.card_info{
+  border: 2px solid magenta;
+  height: 100px;
+  width: 301px;
+  justify-content: center;
+  align-items: center;
+  padding-top:10px;
+  margin-bottom: 10px;
+  margin-left: 1px;
+}
+
+.card_category{
+  border: 2px solid pink;
+  margin-top: 0px;
+  color:green;
+}
+
+.card_title{
+  border: 2px solid rgb(248, 100, 100);
+  margin-top: 25px;
+}
+.card_buttons{
+  width: 97%;
+  
+
+}
+h2
+{
+  color: aqua;
+}
+
